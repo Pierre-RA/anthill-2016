@@ -1,7 +1,7 @@
 anthillsolutions
 ================
 
-Website for anthillsolutions
+website theme for Bolt CMS
 
 LICENSE
 -------

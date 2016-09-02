@@ -1,0 +1,2 @@
+homepage_template: layout.twig
+listing_template: blog.twig
